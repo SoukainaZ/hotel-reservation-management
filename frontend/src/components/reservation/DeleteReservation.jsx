@@ -10,8 +10,8 @@ const DeleteReservation = ({ reservationId }) => {
     if (reservationId) {
       const mockReservation = {
         id: reservationId,
-        clientName: "John Doe",
-        email: "john@example.com",
+        clientName: "Mohamed Saad Daali",
+        email: "saad@example.com",
         phone: "0612345678",
         roomType: "Double",
         startDate: "2024-12-01",

@@ -16,8 +16,8 @@ const EditReservation = ({ reservationId }) => {
     // Verification of the API call here
     const fetchReservationData = () => {
       const mockData = {
-        clientName: "John Doe",
-        email: "john@example.com",
+        clientName: "Soukaina Zaid",
+        email: "soukaina@example.com",
         phone: "0612345678",
         roomType: "Double",
         startDate: "2024-12-01",
